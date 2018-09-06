@@ -1,0 +1,47 @@
+.row1 {
+  padding: 50px;
+}
+
+table {
+  width: 100%;
+}
+
+tr {
+  text-align: right;
+}
+
+td {
+  height: 200px;
+}
+
+.modify {
+  margin-left: 100px;
+}
+
+.item-header {
+  text-align: center;
+}
+.item {
+  text-align: center;
+}
+
+.price, .total-price {
+  margin-left: 160px;
+}
+
+.add {
+  margin-left: 50px;
+  margin-right: 50px;
+  width: 80px;
+  height: 60px;
+}
+
+.remove {
+  margin-left: 50px;
+  width: 80px;
+  height: 60px;
+}
+
+.customAddButton {
+  background: #ff0000;
+}
